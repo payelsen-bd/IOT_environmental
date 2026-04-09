@@ -6,7 +6,13 @@ This project presents a machine learning-based framework for short-term temperat
 The system is designed for smart-city HVAC optimization, enabling efficient energy usage and improved thermal comfort.
 
 ## Dataset
-- 405,184 records collected over 7 days
+
+This project uses the **Environmental Sensor Telemetry Data** dataset, originally published on Kaggle.
+
+**Source:**  
+Stafford, G. A. (2020). *Environmental Sensor Telemetry Data*. Kaggle.  
+https://www.kaggle.com/datasets/garystafford/environmental-sensor-data-132k
+
 - Features:
   - Temperature
   - Humidity
