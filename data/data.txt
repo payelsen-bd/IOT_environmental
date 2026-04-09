@@ -1,0 +1,27 @@
+Dataset Information
+
+Dataset Name: Environmental Sensor Telemetry Data  
+Source: Kaggle  
+Author: G. A. Stafford  
+Year: 2020  
+
+Download Link:
+https://www.kaggle.com/datasets/garystafford/environmental-sensor-data-132k
+
+Description:
+This dataset contains IoT-based environmental sensor readings, including temperature, humidity, light intensity, and CO2 levels. It simulates real-world telemetry data collected from multiple devices.
+
+Usage:
+- Used for exploratory data analysis (EDA)
+- Used for training machine learning models for temperature prediction
+- Used for evaluating model performance
+
+Important Note:
+The dataset is NOT included in this repository due to size and licensing restrictions.
+
+Instructions:
+1. Download the dataset from the Kaggle link above
+2. Extract the CSV file
+3. Place it inside the `data/` folder
+4. Rename it if needed (e.g., data.csv)
+5. Run the notebook or train.py
